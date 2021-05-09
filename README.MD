@@ -11,6 +11,23 @@ As a cohort, we are going to write a poem, line by line about the Northern Terri
 
 We are going to work in pairs to draft lines for the poem, which will then be considered by the group and voted on. The line with the most votes, will get committed to the poem.​
 
+What type of poem are you writing?
+
+What are the rules around submitting to the repo? I.e. must be commented and the comment must specify: ​
+
+- which group wrote it, ​
+
+- When did they write it,​
+
+- what help received and ​
+
+- how it meets the purpose.​
+
+- How will the group decide on which lines are accepted into the repo?​
+
+
+How will the group decide which lines are accepted into the repo? 
+
 The poem must cover at least 5 of the topics listed below (feel free to use Google/Urban Dictionary to look these up):
 
 - Crocodiles​
