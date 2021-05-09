@@ -1,4 +1,4 @@
-### A collaborative poem by the 2021 3AI cohort
+# A collaborative poem by the 2021 3AI cohort
 ---
 You will first need to <a href = "https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">sign up for a github account</a>
 
