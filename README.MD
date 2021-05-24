@@ -1,56 +1,33 @@
 # A collaborative poem by the 2021 3AI cohort
 ---
-You will first need to <a href = "https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">sign up for a github account</a>
+As a 3rd 3AI cohort, we are going to write a poem, line by line about the Northern Territory.​
+
+We are going to work in pairs to draft lines for the poem, which will then be considered by the group for a final "code review" (checking for flow, syntax etc) before submitting. ​
+
+The poem must cover at least 5 of the topics listed below (we can change these): ​
+
+Crocodiles​
+
+The word ‘gammin’​
+
+Uluru/Kata tjuta​
+
+Trever the rubbish warrior (?)​
+
+Djapana/sunset dreaming​
+
+NT Politics​
+
+Seabed mining​
+
+Kakadu​
+
+Laksa​
+
+Magpie geese​
+
+Inappropriate use of fire crackers​
 
 
-To edit and add to them poem you will need to "check out" or get a copy (a clone) of the main poem.  <a href="https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone">clone the repo</a> to your device and then once you've added your verse submit a "pull request".
-
-## Rules for adding to the poem 
-
-As a cohort, we are going to write a poem, line by line about the Northern Territory.​
-
-We are going to work in pairs to draft lines for the poem, which will then be considered by the group and voted on. The line with the most votes, will get committed to the poem.​
-
-What type of poem are you writing?
-
-What are the rules around submitting to the repo? I.e. must be commented and the comment must specify: ​
-
-- which group wrote it, ​
-
-- When did they write it,​
-
-- what help received and ​
-
-- how it meets the purpose.​
-
-- How will the group decide on which lines are accepted into the repo?​
-
-
-How will the group decide which lines are accepted into the repo? 
-
-The poem must cover at least 5 of the topics listed below (feel free to use Google/Urban Dictionary to look these up):
-
-- Crocodiles​
-
-- Salty plums​
-
-- The word ‘gammin’​
-
-- Uluru/Kata tjuta​
-
-- Trever the rubbish warrior (?)​
-
-- Djapana/sunset dreaming​
-
-- The attempted coup against Andrew Giles/some funny crocs in the cabinet story​
-
-- Seabed mining​
-
-- Kakadu​
-
-- Laksa​
-
-- Magpie geese​
-
-- The Fannie Bay Cool Spot
+As a group, we'd like you to consider the following points and come up with some rules that the group will have to follow when drafting the poem
 
