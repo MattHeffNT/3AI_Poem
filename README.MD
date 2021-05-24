@@ -4,7 +4,7 @@ As a 3rd 3AI cohort, we are going to write a poem, line by line about the Northe
 
 We are going to work in pairs to draft lines for the poem, which will then be considered by the group for a final "code review" (checking for flow, syntax etc) before submitting. ​
 
-The poem must cover at least 5 of the topics listed below (we can change these): ​
+The poem must cover at least 5 of the topics listed below: ​
 
 Crocodiles​
 
